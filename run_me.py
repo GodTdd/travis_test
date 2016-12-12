@@ -1,7 +1,7 @@
 import os
 import sys
 
-print 'start'
+print 'start here'
 
 print os.environ.get('SAUCE_ACCESS_KEY')
 print os.environ.get('SAUCE_USERNAME')
